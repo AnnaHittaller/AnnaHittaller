@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anna!</h1>
 <p align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p>
 
-Currently a part-time, but full-passion student at WBS Coding School, and an aspiring full stack web- and app developer :v: <br>
+Having recently finished a 6-month long bootcamp at WBS Coding School, I am now looking forward to switch my career from boring office jobs to coding, as a junior full stack web- and app developer :v: <br>
 I like creating things which are not only working perfectly, but they look ✨ just as good ✨ 
 
 **When I'm not coding**:  💃 🦖 🐈 🍩 📚 🐦 🌳 🌼 🎮
 
-- 🌱 I’m currently learning backend / Express / Mongoose
+- 🌱 I’m currently learning TypeScript, and planning to delve in Next.js
 - 💬 Ask me about: coding, cats and RPG
 - 📫 How to reach me: [✉️](mailto:hittaller.anna@gmail.com)
 
