@@ -6,9 +6,10 @@ I like creating things which are not only working perfectly, but they look ✨ j
 
 **When I'm not coding**:  💃 🦖 🐈 🍩 📚 🐦 🌳 🌼 🎮
 
-- 🌱 I’m currently learning TypeScript, and planning to delve in Next.js
+- 🌱 I’m currently learning TypeScript, and planning to delve into Next.js
 - 💬 Ask me about: coding, cats and RPG
 - 📫 How to reach me: [✉️](mailto:hittaller.anna@gmail.com)
+- 💅 Check out my portfolio [here](anna-hittaller-portfolio.vercel.app/)
 
 ----
 
