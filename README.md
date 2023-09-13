@@ -9,7 +9,7 @@ I like creating things which are not only working perfectly, but they look ✨ j
 - 🌱 I’m currently learning TypeScript, and planning to delve into Next.js
 - 💬 Ask me about: coding, cats and RPG
 - 📫 How to reach me: [✉️](mailto:hittaller.anna@gmail.com)
-- 💅 Check out my portfolio [here](anna-hittaller-portfolio.vercel.app/)
+- 💅 Check out my portfolio [here](https://anna-hittaller-portfolio.vercel.app/)
 
 ----
 
