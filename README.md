@@ -43,7 +43,7 @@ More to be added... soon!
 
 [![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaHittaller&count_private=trueshow_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaHittaller&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaHittaller&layout=compact&langs_count=8&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 --------
 :zap: When the code doesn't work, ask the cat why:
