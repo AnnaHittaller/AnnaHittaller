@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anna!</h1>
 <p align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p>
 
-Having recently finished a 6-month long bootcamp at WBS Coding School, I am now looking forward to shift my career from boring office jobs to coding, as a junior frontend-focused full stack web- and app developer :v: <br>
+Having recently finished a 6-month long bootcamp at WBS Coding School, I am now looking forward to shift my career from boring office jobs to coding, as a frontend web- and app developer, with a background in webdesign and fullstack development :v: <br>
 I like creating things which are not only working perfectly, but they look ✨ just as good ✨ 
 
 **When I'm not coding**:  💃 🦖 🐈 🍩 📚 🐦 🌳 🌼 🎮
@@ -43,7 +43,7 @@ More to be added... soon!
 
 [![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaHittaller&count_private=trueshow_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaHittaller&layout=compact&langs_count=8&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaHittaller&layout=compact&theme=omni&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 --------
 :zap: When the code doesn't work, ask the cat why:
