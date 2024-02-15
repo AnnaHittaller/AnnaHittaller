@@ -51,6 +51,8 @@ I like creating things which are not only working perfectly, but they look ✨ j
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaHittaller&layout=compact&theme=omni&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 --------
-:zap: When the code doesn't work, ask the cat why:
+:astonished: Me: But it was working all right, just ten minutes ago! 
+
+:cat2: The cat, five minutes ago:
 
 <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="250">
